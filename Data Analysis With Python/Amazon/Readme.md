@@ -2,7 +2,7 @@
 <img src="https://fortunedotcom.files.wordpress.com/2017/02/amazon.gif?w=1024"></img>
 
 --------------
-# AMAZON PRODUCT DATA
+# AMAZON PRODUCT AND REVIEW DATA
 ------------------------------------------------------------------------------------------------------------------------------  
 
 ## DATA SET DESCRIPTION:-
