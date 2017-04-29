@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="558.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PSO.FXMLDocumentController">
+    <children>
+        <ImageView fitHeight="397.0" fitWidth="564.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../Desktop/kids-study-room-skylight.jpg" />
+         </image></ImageView>
+        <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: Black;">
+            <children>
+                <CheckBox id="button3" fx:id="sensor1" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor2" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor3" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor4" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor5" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor6" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor7" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor8" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor9" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor10" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor11" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor12" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor13" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor14" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor15" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor16" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor17" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor18" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor19" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor20" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor21" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor22" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor23" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor24" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor25" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor26" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor27" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor28" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor29" layoutX="168.0" layoutY="123.0" mnemonicParsing="false" text="" />
+                <CheckBox id="button3" fx:id="sensor30" layoutX="179.0" layoutY="157.0" mnemonicParsing="false" text="" />
+            
+            </children>
+        </AnchorPane>
+    </children>
+</StackPane>

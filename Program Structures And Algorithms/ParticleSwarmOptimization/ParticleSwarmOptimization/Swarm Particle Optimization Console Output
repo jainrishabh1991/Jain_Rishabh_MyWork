@@ -1,0 +1,420 @@
+run:
+Region With Temperature
+14.0 | 45.0 | 20.0 | 20.0 | 41.0 | 26.0 | 22.0 | 15.0 | 23.0 | 35.0 | 
+17.0 | 19.0 | 32.0 | 39.0 | 24.0 | 12.0 | 26.0 | 20.0 | 26.0 | 32.0 | 
+44.0 | 24.0 | 11.0 | 13.0 | 38.0 | 13.0 | 20.0 | 21.0 | 22.0 | 32.0 | 
+27.0 | 45.0 | 12.0 | 22.0 | 22.0 | 29.0 | 10.0 | 32.0 | 35.0 | 20.0 | 
+45.0 | 31.0 | 45.0 | 43.0 | 16.0 | 33.0 | 16.0 | 37.0 | 22.0 | 31.0 | 
+39.0 | 29.0 | 31.0 | 10.0 | 40.0 | 26.0 | 13.0 | 29.0 | 10.0 | 16.0 | 
+38.0 | 15.0 | 38.0 | 24.0 | 23.0 | 40.0 | 11.0 | 29.0 | 21.0 | 35.0 | 
+33.0 | 44.0 | 41.0 | 34.0 | 20.0 | 29.0 | 21.0 | 36.0 | 25.0 | 16.0 | 
+13.0 | 25.0 | 14.0 | 12.0 | 39.0 | 36.0 | 24.0 | 25.0 | 17.0 | 37.0 | 
+45.0 | 28.0 | 11.0 | 42.0 | 18.0 | 24.0 | 11.0 | 40.0 | 19.0 | 33.0 | 
+---Maximum Temperature Recorded At---
+X - Coordinate:-0.0
+Y - Coordinate:-1.0
+ITERATION 0: 
+     Global Best X: 1.1171691046416665
+     Global Best Y: 0.8418012310750969
+     Global Best Fitness Value: 1.1283145212462782
+ITERATION 1: 
+     Global Best X: -0.2141318628873088
+     Global Best Y: 1.4686909604582308
+     Global Best Fitness Value: 0.5152898903712823
+ITERATION 2: 
+     Global Best X: -0.01000817625439332
+     Global Best Y: 1.1566717006010934
+     Global Best Fitness Value: 0.15699103592618796
+ITERATION 3: 
+     Global Best X: -0.01000817625439332
+     Global Best Y: 1.1566717006010934
+     Global Best Fitness Value: 0.15699103592618796
+ITERATION 4: 
+     Global Best X: -0.01000817625439332
+     Global Best Y: 1.1566717006010934
+     Global Best Fitness Value: 0.15699103592618796
+ITERATION 5: 
+     Global Best X: -0.01000817625439332
+     Global Best Y: 1.1566717006010934
+     Global Best Fitness Value: 0.15699103592618796
+ITERATION 6: 
+     Global Best X: -0.01000817625439332
+     Global Best Y: 1.1566717006010934
+     Global Best Fitness Value: 0.15699103592618796
+ITERATION 7: 
+     Global Best X: -0.01000817625439332
+     Global Best Y: 1.1566717006010934
+     Global Best Fitness Value: 0.15699103592618796
+ITERATION 8: 
+     Global Best X: -0.13312561475771756
+     Global Best Y: 1.0335542620977691
+     Global Best Fitness Value: 0.13728917586447234
+ITERATION 9: 
+     Global Best X: -0.13312561475771756
+     Global Best Y: 1.0335542620977691
+     Global Best Fitness Value: 0.13728917586447234
+ITERATION 10: 
+     Global Best X: -0.13312561475771756
+     Global Best Y: 1.0335542620977691
+     Global Best Fitness Value: 0.13728917586447234
+ITERATION 11: 
+     Global Best X: -0.10228084495269474
+     Global Best Y: 0.9858290198485311
+     Global Best Fitness Value: 0.10325787099630956
+ITERATION 12: 
+     Global Best X: -0.10228084495269474
+     Global Best Y: 0.9858290198485311
+     Global Best Fitness Value: 0.10325787099630956
+ITERATION 13: 
+     Global Best X: -0.06019599644029114
+     Global Best Y: 1.0279138683609346
+     Global Best Fitness Value: 0.06635316144925671
+ITERATION 14: 
+     Global Best X: -0.06019599644029114
+     Global Best Y: 1.0279138683609346
+     Global Best Fitness Value: 0.06635316144925671
+ITERATION 15: 
+     Global Best X: -0.06019599644029114
+     Global Best Y: 1.0279138683609346
+     Global Best Fitness Value: 0.06635316144925671
+ITERATION 16: 
+     Global Best X: -0.06019599644029114
+     Global Best Y: 1.0279138683609346
+     Global Best Fitness Value: 0.06635316144925671
+ITERATION 17: 
+     Global Best X: -0.06019599644029114
+     Global Best Y: 1.0279138683609346
+     Global Best Fitness Value: 0.06635316144925671
+ITERATION 18: 
+     Global Best X: -0.06019599644029114
+     Global Best Y: 1.0279138683609346
+     Global Best Fitness Value: 0.06635316144925671
+ITERATION 19: 
+     Global Best X: -0.06019599644029114
+     Global Best Y: 1.0279138683609346
+     Global Best Fitness Value: 0.06635316144925671
+ITERATION 20: 
+     Global Best X: -0.056149326883667736
+     Global Best Y: 1.031960537917558
+     Global Best Fitness Value: 0.06460822620586823
+ITERATION 21: 
+     Global Best X: -0.056149326883667736
+     Global Best Y: 1.031960537917558
+     Global Best Fitness Value: 0.06460822620586823
+ITERATION 22: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 23: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 24: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 25: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 26: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 27: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 28: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 29: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 30: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 31: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 32: 
+     Global Best X: -0.052475410847914405
+     Global Best Y: 1.0356344539533113
+     Global Best Fitness Value: 0.06343093135220448
+ITERATION 33: 
+     Global Best X: -0.05109172465896919
+     Global Best Y: 1.0359212970314728
+     Global Best Fitness Value: 0.06245561551254795
+ITERATION 34: 
+     Global Best X: -0.02317676370551336
+     Global Best Y: 0.9545518804136721
+     Global Best Fitness Value: 0.051016604647843446
+ITERATION 35: 
+     Global Best X: -0.02317676370551336
+     Global Best Y: 0.9545518804136721
+     Global Best Fitness Value: 0.051016604647843446
+ITERATION 36: 
+     Global Best X: -0.02317676370551336
+     Global Best Y: 0.9545518804136721
+     Global Best Fitness Value: 0.051016604647843446
+ITERATION 37: 
+     Global Best X: 0.03986876247688498
+     Global Best Y: 1.0112114517582484
+     Global Best Fitness Value: 0.0414151526855305
+ITERATION 38: 
+     Global Best X: 0.003131747179022905
+     Global Best Y: 0.9744744364603863
+     Global Best Fitness Value: 0.025716963942273047
+ITERATION 39: 
+     Global Best X: 0.010708991700888697
+     Global Best Y: 0.9866047076753542
+     Global Best Fitness Value: 0.017149820981934957
+ITERATION 40: 
+     Global Best X: 0.012891607564387755
+     Global Best Y: 0.9887873235388533
+     Global Best Fitness Value: 0.017085597999968623
+ITERATION 41: 
+     Global Best X: 0.012891607564387755
+     Global Best Y: 0.9887873235388533
+     Global Best Fitness Value: 0.017085597999968623
+ITERATION 42: 
+     Global Best X: 0.012891607564387755
+     Global Best Y: 0.9887873235388533
+     Global Best Fitness Value: 0.017085597999968623
+ITERATION 43: 
+     Global Best X: 0.012891607564387755
+     Global Best Y: 0.9887873235388533
+     Global Best Fitness Value: 0.017085597999968623
+ITERATION 44: 
+     Global Best X: 0.012891607564387755
+     Global Best Y: 0.9887873235388533
+     Global Best Fitness Value: 0.017085597999968623
+ITERATION 45: 
+     Global Best X: 0.0121528798451693
+     Global Best Y: 0.9880485958196351
+     Global Best Fitness Value: 0.017044898075775212
+ITERATION 46: 
+     Global Best X: 0.0121528798451693
+     Global Best Y: 0.9880485958196351
+     Global Best Fitness Value: 0.017044898075775212
+ITERATION 47: 
+     Global Best X: -0.0026421935117059633
+     Global Best Y: 0.9926495037220647
+     Global Best Fitness Value: 0.007810952700230705
+ITERATION 48: 
+     Global Best X: 0.004819159183938537
+     Global Best Y: 1.0001108564177092
+     Global Best Fitness Value: 0.004820434045341402
+ITERATION 49: 
+     Global Best X: 0.004819159183938537
+     Global Best Y: 1.0001108564177092
+     Global Best Fitness Value: 0.004820434045341402
+ITERATION 50: 
+     Global Best X: 0.004003161054667865
+     Global Best Y: 0.9992948582884386
+     Global Best Fitness Value: 0.004064790678865682
+ITERATION 51: 
+     Global Best X: 0.0016552102891649587
+     Global Best Y: 0.9969469075229357
+     Global Best Fitness Value: 0.0034729086908331236
+ITERATION 52: 
+     Global Best X: 0.0021260259249171846
+     Global Best Y: 0.9975702159523784
+     Global Best Fitness Value: 0.0032285967155246363
+ITERATION 53: 
+     Global Best X: 0.002102542327100993
+     Global Best Y: 0.9978246153738257
+     Global Best Fitness Value: 0.003025389645821952
+ITERATION 54: 
+     Global Best X: 0.002102542327100993
+     Global Best Y: 0.9978246153738257
+     Global Best Fitness Value: 0.003025389645821952
+ITERATION 55: 
+     Global Best X: 0.002102542327100993
+     Global Best Y: 0.9978246153738257
+     Global Best Fitness Value: 0.003025389645821952
+ITERATION 56: 
+     Global Best X: 0.002102542327100993
+     Global Best Y: 0.9978246153738257
+     Global Best Fitness Value: 0.003025389645821952
+ITERATION 57: 
+     Global Best X: 0.002102542327100993
+     Global Best Y: 0.9978246153738257
+     Global Best Fitness Value: 0.003025389645821952
+ITERATION 58: 
+     Global Best X: 0.002102542327100993
+     Global Best Y: 0.9978246153738257
+     Global Best Fitness Value: 0.003025389645821952
+ITERATION 59: 
+     Global Best X: 0.002102542327100993
+     Global Best Y: 0.9978246153738257
+     Global Best Fitness Value: 0.003025389645821952
+ITERATION 60: 
+     Global Best X: 0.002102542327100993
+     Global Best Y: 0.9978246153738257
+     Global Best Fitness Value: 0.003025389645821952
+ITERATION 61: 
+     Global Best X: -0.001246919522661559
+     Global Best Y: 0.9980093180677678
+     Global Best Fitness Value: 0.00234896207958114
+ITERATION 62: 
+     Global Best X: 6.241289568500675E-4
+     Global Best Y: 0.9980533814577301
+     Global Best Fitness Value: 0.002044226187066283
+ITERATION 63: 
+     Global Best X: 2.7764524444018226E-4
+     Global Best Y: 0.9989308973494773
+     Global Best Fitness Value: 0.0011045665933364934
+ITERATION 64: 
+     Global Best X: 2.7764524444018226E-4
+     Global Best Y: 0.9989308973494773
+     Global Best Fitness Value: 0.0011045665933364934
+ITERATION 65: 
+     Global Best X: 2.7764524444018226E-4
+     Global Best Y: 0.9989308973494773
+     Global Best Fitness Value: 0.0011045665933364934
+ITERATION 66: 
+     Global Best X: 6.4419827768685E-6
+     Global Best Y: 0.9991387151160562
+     Global Best Fitness Value: 8.613089750212345E-4
+ITERATION 67: 
+     Global Best X: -2.2657671041316057E-4
+     Global Best Y: 0.9996215512211104
+     Global Best Fitness Value: 4.41090108645246E-4
+ITERATION 68: 
+     Global Best X: 1.4878966364441972E-4
+     Global Best Y: 1.0000342513205247
+     Global Best Fitness Value: 1.526810956376247E-4
+ITERATION 69: 
+     Global Best X: 1.4878966364441972E-4
+     Global Best Y: 1.0000342513205247
+     Global Best Fitness Value: 1.526810956376247E-4
+ITERATION 70: 
+     Global Best X: 1.0707839263484324E-4
+     Global Best Y: 1.0000138036216082
+     Global Best Fitness Value: 1.079644484946952E-4
+ITERATION 71: 
+     Global Best X: 6.580214997298136E-5
+     Global Best Y: 0.9999940903099589
+     Global Best Fitness Value: 6.606699158769588E-5
+ITERATION 72: 
+     Global Best X: 6.580214997298136E-5
+     Global Best Y: 0.9999940903099589
+     Global Best Fitness Value: 6.606699158769588E-5
+ITERATION 73: 
+     Global Best X: 2.5436859677906273E-5
+     Global Best Y: 0.9999523293885795
+     Global Best Fitness Value: 5.403259223357862E-5
+ITERATION 74: 
+     Global Best X: 2.5436859677906273E-5
+     Global Best Y: 0.9999523293885795
+     Global Best Fitness Value: 5.403259223357862E-5
+ITERATION 75: 
+     Global Best X: 3.7214423245160544E-5
+     Global Best Y: 0.9999641069521468
+     Global Best Fitness Value: 5.170323182997593E-5
+ITERATION 76: 
+     Global Best X: 3.6602192809317326E-5
+     Global Best Y: 0.9999634934967826
+     Global Best Fitness Value: 5.1695699004972955E-5
+ITERATION 77: 
+     Global Best X: 3.6602192809317326E-5
+     Global Best Y: 0.9999634934967826
+     Global Best Fitness Value: 5.1695699004972955E-5
+ITERATION 78: 
+     Global Best X: 3.6602192809317326E-5
+     Global Best Y: 0.9999634934967826
+     Global Best Fitness Value: 5.1695699004972955E-5
+ITERATION 79: 
+     Global Best X: -3.0834345039787584E-5
+     Global Best Y: 1.0000066514081294
+     Global Best Fitness Value: 3.154358990565848E-5
+ITERATION 80: 
+     Global Best X: -1.1350024956138696E-5
+     Global Best Y: 0.9999918118307011
+     Global Best Fitness Value: 1.3995327183488175E-5
+ITERATION 81: 
+     Global Best X: -6.484044618812369E-6
+     Global Best Y: 0.9999965061691769
+     Global Best Fitness Value: 7.365438781171135E-6
+ITERATION 82: 
+     Global Best X: -1.5033985850513363E-6
+     Global Best Y: 1.0000014868152107
+     Global Best Fitness Value: 2.1144329680517793E-6
+ITERATION 83: 
+     Global Best X: -1.5033985850513363E-6
+     Global Best Y: 1.0000014868152107
+     Global Best Fitness Value: 2.1144329680517793E-6
+ITERATION 84: 
+     Global Best X: -1.5033985850513363E-6
+     Global Best Y: 1.0000014868152107
+     Global Best Fitness Value: 2.1144329680517793E-6
+ITERATION 85: 
+     Global Best X: -1.5033985850513363E-6
+     Global Best Y: 1.0000014868152107
+     Global Best Fitness Value: 2.1144329680517793E-6
+ITERATION 86: 
+     Global Best X: 1.6419601491349847E-6
+     Global Best Y: 1.000000921671976
+     Global Best Fitness Value: 1.8829530962893398E-6
+ITERATION 87: 
+     Global Best X: 3.1465491983001625E-7
+     Global Best Y: 0.9999995943836599
+     Global Best Fitness Value: 5.133540044705817E-7
+ITERATION 88: 
+     Global Best X: 3.1465491983001625E-7
+     Global Best Y: 0.9999995943836599
+     Global Best Fitness Value: 5.133540044705817E-7
+ITERATION 89: 
+     Global Best X: 3.1465491983001625E-7
+     Global Best Y: 0.9999995943836599
+     Global Best Fitness Value: 5.133540044705817E-7
+ITERATION 90: 
+     Global Best X: 3.8189082776462286E-7
+     Global Best Y: 0.9999997220903858
+     Global Best Fitness Value: 4.723074824743344E-7
+ITERATION 91: 
+     Global Best X: 3.7489905649627323E-7
+     Global Best Y: 0.9999997173778633
+     Global Best Fitness Value: 4.6949395598991264E-7
+ITERATION 92: 
+     Global Best X: 2.9322808757464614E-7
+     Global Best Y: 0.9999996711943034
+     Global Best Fitness Value: 4.405631594133511E-7
+ITERATION 93: 
+     Global Best X: 3.383684587196309E-7
+     Global Best Y: 1.0000001140257693
+     Global Best Fitness Value: 3.5706454586554334E-7
+ITERATION 94: 
+     Global Best X: -6.537358401844132E-8
+     Global Best Y: 1.0000002442457014
+     Global Best Fitness Value: 2.528431690993418E-7
+ITERATION 95: 
+     Global Best X: -1.2077676704813172E-7
+     Global Best Y: 1.0000000290685505
+     Global Best Fitness Value: 1.2422563376448483E-7
+ITERATION 96: 
+     Global Best X: -6.811345976310336E-8
+     Global Best Y: 1.0000000498024164
+     Global Best Fitness Value: 8.437845744904067E-8
+ITERATION 97: 
+     Global Best X: 6.077535450161114E-8
+     Global Best Y: 0.9999999885162356
+     Global Best Fitness Value: 6.185079271295323E-8
+ITERATION 98: 
+     Global Best X: 1.074796966328808E-8
+     Global Best Y: 1.0000000063300551
+     Global Best Fitness Value: 1.2473509932792339E-8
+ITERATION 99: 
+     Global Best X: 6.7588102805443566E-9
+     Global Best Y: 1.0000000005203382
+     Global Best Fitness Value: 6.7788102398886655E-9
+
+Solution found at iteration 99, the solutions is:
+     Best X: 6.7588102805443566E-9
+     Best Y: 1.0000000005203382
+BUILD SUCCESSFUL (total time: 3 seconds)
