@@ -1,0 +1,141 @@
+<html>
+
+	<head>
+		<title> Code Player</title>
+	</head>
+		<script type="text/javascript" src="jQuery/jquery-3.2.1.min.js"></script>
+		
+		<style type="text/css">
+			#header{
+				height:45px;
+				background-color:#EEEEEE;
+				
+			}
+			body{
+				margin:0px;
+				font-family:helvetica;
+			}
+			#logo{
+				width:30px;
+				height:30px;
+				padding:5px;
+				float:left;
+			}
+			#menuBar{
+				
+				float:left;
+				padding:5px;
+				margin:0px 0px 0px 120px;
+			}
+			.menuBorder{
+				height:20px;
+				border-left:1px solid #95A6AD;
+				border-top:1px solid #95A6AD;
+				border-bottom:1px solid #95A6AD;
+				float:left;
+				padding:5px;
+			}
+			.menubarText{
+				padding:2px 10px;
+				float:left;
+			}
+			#outputTab{
+				border-right:1px solid #95A6AD;
+				border-bottom-right-radius:5px;
+				border-top-right-radius:5px;
+			}
+			#htmlTab{
+				border-bottom-left-radius:5px;
+				border-top-left-radius:5px;
+			}
+			.highlight{
+				background-color:#DCDCDC;
+			}
+			.active{
+				background-color:#D6EAF8;
+			}
+			textarea{
+				resize:none;
+				
+			}
+			.hidden{
+				display:none;
+			}
+			
+		</style>
+
+	<body>
+		<div id="header">
+		
+			<img id="logo" src="Images/icon.png">
+			<div id="menuBar">
+				<div id="htmlTab" class="menuBorder active">
+					<span class="menubarText">HTML</span>
+				</div>
+					
+				<div id="cssTab" class="menuBorder">
+					<span class="menubarText">CSS</span>
+				</div>
+				
+				<div id="javascriptTab" class="menuBorder">
+					<span class="menubarText">JavaScript</span>
+				</div>
+				
+				<div id="outputTab" class="menuBorder active">
+					<span class="menubarText">Output</span>
+				</div>
+			</div>
+		
+		</div>
+		
+		<div id="pageContainer">
+		
+			<textarea id="htmlTabScreen" class="screen"><p id="para">Welcome to Code Player</p> </textarea>
+			
+			<textarea id="cssTabScreen" class="screen hidden">p{font-family:helvetica;
+   color:red;
+}</textarea>
+			
+			<textarea id="javascriptTabScreen" class="screen hidden"> document.getElementById("para").innerHTML = "Hello Everyone"</textarea>
+				
+			<iframe id="outputTabScreen" class="screen">Output</iframe>
+		
+		</div>
+		
+		<script type="text/javascript">
+		
+				function formatOutput(){
+					$('iframe').contents().find("html").html("<html><head><style type='text/css'>"+$("#cssTabScreen").val()+"</style></head><body>"+$("#htmlTabScreen").val()+"</body></html>");
+					
+					document.getElementById("outputTabScreen").contentWindow.eval($("#javascriptTabScreen").val());
+				}
+				
+				$(".menuBorder").hover(function(){
+					$(this).addClass("highlight");
+				}, function(){
+					$(this).removeClass("highlight");
+				});
+				
+				$(".menuBorder").click(function(){
+				
+					$(this).toggleClass("active");
+					$(this).removeClass("highlight")
+					var selectedScreen=$(this).attr("id")+"Screen"
+					$("#"+selectedScreen).toggleClass("hidden");
+					var activeScreens=4- $(".hidden").length;
+					$(".screen").width(($(window).width()/activeScreens)-10)
+				})
+				
+				$('iframe').contents().find("html").html($("#htmlTabScreen").val());
+					
+				$(".screen").height($(window).height()- $("#header").height()-10)
+				$(".screen").width(($(window).width()/2)-10)
+				formatOutput();
+				$("textarea").on('change keyup paste', function() {
+					formatOutput();
+				});
+				
+		</script>
+	</body>
+	
+</html>
